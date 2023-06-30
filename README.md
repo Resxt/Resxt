@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNiMWloMGk5NnBzdWlta2RudTlncmdtbHMwMXRqdHl0bWx4bXRhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExbaFJARrzvf8eA/giphy.gif" width="300"/>
-  
   <p>💬 I will gladly take a look at suggestions when it comes to creating <a href="https://spicetify.app/">Spicetify</a> extensions, or updating the ones I created</p>
   <p>👯 I’m looking to collaborate on <a href="https://steamcommunity.com/app/311210/workshop/">Black Ops III</a> custom zombie maps (mainly scripting)</p>
   <p>📫 How to reach me: <code>resxt</code> on Discord</p>
