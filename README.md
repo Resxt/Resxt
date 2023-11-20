@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div id="header" align="left">
   <p>💬 I will gladly take a look at suggestions when it comes to creating <a href="https://spicetify.app/">Spicetify</a> extensions, or updating the ones I created</p>
   <p>👯 I’m looking to collaborate on <a href="https://steamcommunity.com/app/311210/workshop/">Black Ops III</a> custom zombie maps (mainly scripting)</p>
-  <p>📫 How to reach me: <code>resxt</code> on Discord</p>
+  <p>📫 How to contact me: Ping <code>resxt</code> on Discord if we have a server in common. If we don't then send me a friend request</p>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resxt&layout=compact&theme=github_dark" alt="resxt" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=resxt&show_icons=true&hide_rank=true&hide_title=true&include_all_commits=true&theme=github_dark" alt="resxt" /></p>
