@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="left">
-  <p>💬 I will gladly take a look at suggestions when it comes to creating <a href="https://spicetify.app/">Spicetify</a> extensions, or updating the ones I created</p>
-  <p>💻 I work on <a href="https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/">Call of Duty: Black Ops III</a> zombies maps, you can check them out <a href="https://steamcommunity.com/id/resxt/myworkshopfiles/">on the workshop</a></p>
-  <p>📫 How to contact me: Ping <code>resxt</code> on Discord if we have a server in common. If we don't then send me a friend request</p>
-
+  <p>💻 I'm currently working on <a href="https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/">Call of Duty: Black Ops III</a> zombies maps, you can check them out <a href="https://steamcommunity.com/id/resxt/myworkshopfiles/">on the workshop</a></p>
+  <p>ℹ️ I used to work on scripts both for fun and for my servers on <a href="https://plutonium.pw/">Plutonium</a> before starting BO3 ModTools</p>
+  <p>ℹ️ I released some extensions on <a href="https://spicetify.app/">Spicetify</a> as well</p>
+  <p>📫 How to contact me: Ping <code>resxt</code> on Discord if we have a server in common. If we don't then send me a friend request.<br>  
+    Paste <code>discord://-/users/583347987774963715</code> in your browser's URL bar to open my profile in the Windows app</p>
+  <p>💶 If you feel like donating to support my work you can do so <a href="https://buymeacoffee.com/resxt">here</a></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resxt&layout=compact&theme=github_dark" alt="resxt" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=resxt&show_icons=true&hide_rank=true&hide_title=true&include_all_commits=true&theme=github_dark" alt="resxt" /></p>
 </div>
